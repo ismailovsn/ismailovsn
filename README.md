@@ -1,7 +1,7 @@
 ## Hello, my name is Nasir. I am:
-* **a second-year Computer Engineering student**
-* **beginner Swift dev based in Busan, South Korea.**
+* **a third-year Computer Engineering student**
+* **Swift dev based in Busan, South Korea.**
 
 contact me on:
-* [telegram](https://t.me/saeedikr)
+* [telegram](https://t.me/isaidnasir)
 * [e-mail](ismailovsn12@gmail.com)
